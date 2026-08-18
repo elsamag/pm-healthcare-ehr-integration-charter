@@ -127,7 +127,7 @@ pm-healthcare-ehr-integration-charter/
 # 1. Clone the enterprise governance repository
 ```bash
 git clone https://github.com/Elsamag/pm-healthcare-ehr-integration-charter.git
-
+```
 ### 2. Navigate to project root directory
 ```bash
 cd pm-healthcare-ehr-integration-charter
