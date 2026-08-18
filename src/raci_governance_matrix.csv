@@ -1,0 +1,11 @@
+WBS_Code,Work_Package_Name,Responsible,Accountable,Consulted,Informed
+1.1,Charter_Signoff_and_Authority,Samuel Chinwendu Agu,CIO_CMO_Steering,Dept_Chairs,All_Staff
+1.2,Scope_Baseline_Definition,Samuel Chinwendu Agu,Samuel Chinwendu Agu,Clinical_Leads,Executive_Board
+1.3,Governance_RACI_Rollout,Samuel Chinwendu Agu,Samuel Chinwendu Agu,Vendor_PM,Hospital_Admin
+2.1,HL7_FHIR_API_Configuration,Vendor_Integration_Eng,Samuel Chinwendu Agu,Hospital_IT_Lead,CIO
+2.2,LIS_Bidirectional_Testing,Hospital_IT_Lead,Samuel Chinwendu Agu,Lab_Director,Clinical_Staff
+2.3,Clinical_Workflow_Simulation,Clinical_Informatics_Team,Samuel Chinwendu Agu,Chief_Medical_Officer,Nursing_Dir
+2.4,HIPAA_Compliance_Audit,Security_Officer,Samuel Chinwendu Agu,Legal_Counsel,Executive_Board
+3.1,RBAC_Credential_Provisioning,System_Admin_Lead,Samuel Chinwendu Agu,HR_Department,Dept_Supervisors
+3.2,Go_Live_Cutover_Execution,Vendor_Hospital_Joint_Ops,Samuel Chinwendu Agu,CIO_CMO_Steering,All_Hospital_Units
+3.3,Operational_Handover_Signoff,Samuel Chinwendu Agu,CIO_CMO_Steering,Dept_Chairs,Hospital_Admin
