@@ -1,0 +1,59 @@
+{
+  "project_wbs": {
+    "project_id": "ELS-EHR-2026-01",
+    "project_title": "Healthcare EHR Systems Integration",
+    "lead_consultant": "Samuel Chinwendu Agu",
+    "practice": "Elsamag IT Solutions",
+    "total_phases": 3,
+    "phases": [
+      {
+        "phase_id": 1,
+        "phase_name": "Phase 1: Project Initiation & Governance Baseline",
+        "deliverables": [
+          {
+            "wbs_id": "1.1",
+            "title": "Authorized Project Charter",
+            "work_packages": ["Executive Alignment", "Charter Ratification", "Authority Grant"]
+          },
+          {
+            "wbs_id": "1.2",
+            "title": "Scope & RACI Governance Baseline",
+            "work_packages": ["In-Scope Boundaries", "RACI Matrix Mapping", "Stakeholder Sign-Off"]
+          }
+        ]
+      },
+      {
+        "phase_id": 2,
+        "phase_name": "Phase 2: Technical Configuration & Clinical Validation",
+        "deliverables": [
+          {
+            "wbs_id": "2.1",
+            "title": "System Architecture & API Integration",
+            "work_packages": ["HL7/FHIR Engine Setup", "LIS Interface Bridge", "Data Mapping"]
+          },
+          {
+            "wbs_id": "2.2",
+            "title": "Clinical Testing & Security Verification",
+            "work_packages": ["Simulation Scenarios", "HIPAA Access Control Audit", "Sign-Off Review"]
+          }
+        ]
+      },
+      {
+        "phase_id": 3,
+        "phase_name": "Phase 3: Operational Cutover & Project Closure",
+        "deliverables": [
+          {
+            "wbs_id": "3.1",
+            "title": "Deployment Cutover & User Access",
+            "work_packages": ["RBAC Provisioning", "Production Cutover Window", "Hypercare Monitoring"]
+          },
+          {
+            "wbs_id": "3.2",
+            "title": "Final Acceptance & Lessons Learned",
+            "work_packages": ["Operational Handoff", "Governance Archive", "Contract Closure"]
+          }
+        ]
+      }
+    ]
+  }
+}
