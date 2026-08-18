@@ -131,6 +131,7 @@ git clone https://github.com/Elsamag/pm-healthcare-ehr-integration-charter.git
 ### 2. Navigate to project root directory
 ```bash
 cd pm-healthcare-ehr-integration-charter
+```
 
 ### 3. Review and configure the Project Charter & RACI baseline
 ```bash
