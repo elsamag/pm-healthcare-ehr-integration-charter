@@ -124,7 +124,7 @@ pm-healthcare-ehr-integration-charter/
 ##  Step-by-Step Deployment & Execution Guide
 
 
-# 1. Clone the enterprise governance repository
+### 1. Clone the enterprise governance repository
 ```bash
 git clone https://github.com/Elsamag/pm-healthcare-ehr-integration-charter.git
 ```
